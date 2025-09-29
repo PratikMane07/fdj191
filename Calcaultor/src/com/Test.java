@@ -32,5 +32,10 @@ public class Test {
 		System.out.println("Welcome to git hub");
 	}
 	
+	public void m2()
+	{
+		
+	}
+	
 
 }
