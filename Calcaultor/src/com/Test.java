@@ -21,6 +21,11 @@ public class Test {
 	{
 		System.out.println(10 / 5);
 	}
+
+	public void getMsg()
+	{
+		System.out.println("Welcome to git hub");
+	}
 	
 
 }
