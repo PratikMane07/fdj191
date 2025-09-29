@@ -26,6 +26,11 @@ public class Test {
 	{
 		System.out.println("Welcome to git hub");
 	}
+
+	public void display()
+	{
+		System.out.println("Welcome to git hub");
+	}
 	
 
 }
