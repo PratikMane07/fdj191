@@ -16,6 +16,11 @@ public class Test {
 	public void multiplication(){
 		System.out.println(10 * 10);
 	}
+
+	public void division()  // dev4
+	{
+		System.out.println(10 / 5);
+	}
 	
 
 }
