@@ -13,5 +13,9 @@ public class Test {
 		System.out.println(20 -10);
 	}
 	
+	public void multiplication(){
+		System.out.println(10 * 10);
+	}
+	
 
 }
