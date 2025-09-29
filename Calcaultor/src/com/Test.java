@@ -8,5 +8,10 @@ public class Test {
 		System.out.println(10 + 20);
 	}
 	
+	public void subtraction()
+	{
+		System.out.println(20 -10);
+	}
+	
 
 }
